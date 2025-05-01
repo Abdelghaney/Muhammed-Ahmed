@@ -13,9 +13,10 @@
 - 🔍 Feature Engineering, Data Visualization, ETL
 
 ### 📊 Data Analysis & Visualization
-- 📌 Excel (Power Query, Power Pivot)
-- 📊 Power BI
+- 🐍 Python
+- 📊 Power BI (Power Query)
 - 🗄️ SQL
+- 📌 Excel (Power Query, Power Pivot)
 
 ### ⚙️ Tools and Platforms
 - 🌍 Git, GitHub, Jupyter Notebook
