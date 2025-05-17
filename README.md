@@ -26,4 +26,4 @@
 I'm always open to collaborations, discussions, or just a friendly chat! Feel free to reach out:
 
 - 📧 **Email**: [ma8397498@gmail.com](mailto:ma8397498@gmail.com)
-- 💼 **LinkedIn**: [Muhammed Ahmed](https://www.linkedin.com/in/muhammed-ahmed)
+- 💼 **LinkedIn**: [Muhammed Ahmed](https://www.linkedin.com/in/muhammedabdelghani)
